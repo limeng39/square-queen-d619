@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "square-queen-d619",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "91578426-2bd6-4f1a-ae92-a295b8921d78",
+      "database_name": "twilight-tooth-b565-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
